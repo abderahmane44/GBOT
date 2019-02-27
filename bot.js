@@ -992,4 +992,4 @@ client.on("ready", ()=> {
  
  
  
-client.login('NTQ5ODQ4MTg1Njg2NzIwNTIz.D1Z1sw.Q6UxIx0mfOkOCwqR95aNkF349Zk');
+client.login('bot_token');
